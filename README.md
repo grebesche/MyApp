@@ -9,3 +9,4 @@ Server side:
 Client side:
  - Web components
  - Polymer
+ - Closure compiler
