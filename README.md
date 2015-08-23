@@ -1,5 +1,4 @@
-# MyApp
-technology check repository
+# technology check repository
 
 Server:
  - Docker
