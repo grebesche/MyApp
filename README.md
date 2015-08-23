@@ -1,11 +1,11 @@
 # technology check repository
 
-Server:
+Server side:
  - Docker
  - micro-servies
  - spring boot
  - REST API
 
-Client:
+Client side:
  - Web components
  - Polymer
