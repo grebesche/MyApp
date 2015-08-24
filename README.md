@@ -5,8 +5,9 @@ Server side:
  - micro-servies
  - spring boot
  - REST API
+ - gradle
+ - RxJava
 
 Client side:
- - Web components
  - Polymer
  - Closure compiler
