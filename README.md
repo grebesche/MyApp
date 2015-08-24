@@ -4,7 +4,6 @@ Server side:
  - Docker
  - micro-servies
  - spring boot
- - REST API
  - gradle
  - RxJava
 
