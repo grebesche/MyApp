@@ -1,0 +1,13 @@
+api:
+  build: api-service
+  expose:
+    - 8080
+  ports:
+    - "8080:8080"
+
+events:
+  build: events-service
+  expose:
+    - 8080
+  ports:
+    - "8081:8080"
