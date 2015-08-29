@@ -1,3 +1,4 @@
 include 'api-service'
 include 'dto'
 include 'events-service'
+include 'emails-service'
