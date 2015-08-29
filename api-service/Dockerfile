@@ -11,5 +11,5 @@ RUN apt-get install oracle-java8-set-default
 
 EXPOSE 8080
 
-ADD /build/libs/com.guillaume.bees.api-0.0.1-SNAPSHOT.jar /com.guillaume.bees.api-0.0.1-SNAPSHOT.jar
-CMD java -jar /com.guillaume.bees.api-0.0.1-SNAPSHOT.jar
+ADD /build/libs/api-0.0.1-SNAPSHOT.jar /api-0.0.1-SNAPSHOT.jar
+CMD java -jar /api-0.0.1-SNAPSHOT.jar
