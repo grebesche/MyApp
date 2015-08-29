@@ -1,9 +1,9 @@
 api:
-  build: api-service
+  build: server/api-service
   ports:
     - "8080:8080"
 
 events:
-  build: events-service
+  build: server/events-service
   ports:
     - "8081:8080"
